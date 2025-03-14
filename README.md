@@ -1,20 +1,18 @@
 ![MasterHead](https://camo.githubusercontent.com/9cfa0cc4076cc9789f2378fc63b1b971d6878660fae612eec0389389e5cbe06b/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f616c676f776f726b7375706c6f61642f6e65772d616c676f776f726b732f77702d636f6e74656e742f75706c6f6164732f323031362f30352f31383035323634362f73746d5f62616e6e65722e676966)
 
 <h1 align="center">Hi 👋, I'm Sara Shahrin Moumi</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">A passionate Designer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saramoumi&label=Profile%20views&color=0e75b6&style=flat" alt="saramoumi" /> </p>
 <hr>
 
 <img align="right" width="300" src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- 🔭 I’m currently working on **Web Programming**
+- 🔭 I’m currently working on **Graphics designing**
 
 - 🌱 I’m currently learning **c,c++,java,html,css,JavaScript,ajax,django,php,MySQL,json**
 
-- 👯 I’m looking to collaborate on **Web development**
-
-- 🤝 I’m looking for help with **eCommerce Websites**
+- 👯 I’m looking to collaborate on **Graphics Design**
 
 - 👨‍💻 All of my projects are available at [Not available](Not available)
 
@@ -26,7 +24,7 @@
 
 - 📄 Know about my experiences [Not available](Not available)
 
-- ⚡ Fun fact **I love coding.**
+- ⚡ Fun fact **I love designing.**
 <hr>
 <div align="center">
 
